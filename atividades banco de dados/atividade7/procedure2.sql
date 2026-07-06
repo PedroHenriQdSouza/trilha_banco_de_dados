@@ -15,6 +15,6 @@ END $$
 
 DELIMITER ;
 
--- Executa a procedure corrigida
+
 CALL sp_aumento_geral_dez_porcento();
 
